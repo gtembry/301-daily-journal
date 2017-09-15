@@ -9,3 +9,7 @@ Today I immediately after class started the pair-programming assignment with my 
 ### Learning journal Code 301 - day 3
 
 Today I spent a considerable amount of time doing codewars. It took about 2 hours to figure out the solution to be arr.reverse();. We experimented with a for loop, which also worked, but took more work. The pair-programming was quite difficult for bot my partner and I, but my partner was grasping it much more than me.
+
+#### Learning journal Code 301 - day 4
+
+Today we had a fun codewars assignment. Simple validation of a username with REGEX. The solution /^[a-z-09]{4,16}$/g. inside the [] limits the username to alphanumerics and an underscore, and inside {} limits the username between 4 and 16 characters. the ^ starts whereas the $ ends. With Regex, I was able to complete this task. Thanks REGEX!
