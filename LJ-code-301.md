@@ -13,3 +13,7 @@ Today I spent a considerable amount of time doing codewars. It took about 2 hour
 #### Learning journal Code 301 - day 4
 
 Today we had a fun codewars assignment. Simple validation of a username with REGEX. The solution /^[a-z-09]{4,16}$/g. inside the [] limits the username to alphanumerics and an underscore, and inside {} limits the username between 4 and 16 characters. the ^ starts whereas the $ ends. With Regex, I was able to complete this task. Thanks REGEX!
+
+##### Learning journal Code 301 - day 5
+
+Today I learned how convert a name into initials using the .split method. I created two variables that takes the first letter of each name. One var targeting the first name and the other variable targeting the last name. They target the indices and return the string as the initials of the persons name. Hope this makes sense. 
