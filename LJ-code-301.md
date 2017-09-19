@@ -16,4 +16,8 @@ Today we had a fun codewars assignment. Simple validation of a username with REG
 
 ##### Learning journal Code 301 - day 5
 
-Today I learned how convert a name into initials using the .split method. I created two variables that takes the first letter of each name. One var targeting the first name and the other variable targeting the last name. They target the indices and return the string as the initials of the persons name. Hope this makes sense. 
+Today I learned how convert a name into initials using the .split method. I created two variables that takes the first letter of each name. One var targeting the first name and the other variable targeting the last name. They target the indices and return the string as the initials of the persons name. Hope this makes sense.
+
+# Learning journal code 301 - day 6
+
+Today I learned what JSON and AJAX are and how to use them to load new data.
