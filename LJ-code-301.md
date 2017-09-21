@@ -22,6 +22,10 @@ Today I learned how convert a name into initials using the .split method. I crea
 
 Today I learned what JSON and AJAX are and how to use them to load new data.
 
-# Learning journal code 301 - day 7
+## Learning journal code 301 - day 7
 
-Today I learned about NODE.JS. I learned how to initialize my project using NPM to create and populate a package.json file. "nodemon" is also cool. 
+Today I learned about NODE.JS. I learned how to initialize my project using NPM to create and populate a package.json file. "nodemon" is also cool.
+
+### Learning journal code - day 8 301
+
+Today I learned about SQL. Structured Query Language. It has one singular purpose to interact with a database.
