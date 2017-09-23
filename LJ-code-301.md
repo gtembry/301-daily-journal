@@ -33,3 +33,7 @@ Today I learned about SQL. Structured Query Language. It has one singular purpos
 #### Learning journal code - day 9
 
 Today we learned about SQL joins and Relations. We had about about 6 hours of lecture today. Yeah. If anything, backend doesn't know anything about the front-end unless communicated with AJAX.. I think I said that correctly, I'll ask Tomorrow.
+
+##### Learning journal code - day 10
+
+Today I learned more about functional programming. .map, .flatten, yeah. Also, SQL joins makes more sense. Just a bit.
