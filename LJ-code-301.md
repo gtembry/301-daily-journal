@@ -37,3 +37,7 @@ Today we learned about SQL joins and Relations. We had about about 6 hours of le
 ##### Learning journal code - day 10
 
 Today I learned more about functional programming. .map, .flatten, yeah. Also, SQL joins makes more sense. Just a bit.
+
+# Learning journal code - day 11
+
+Today I learned about single page apps and client-side routing. We explored client-side route-based functionality. The purpose is to create a more efficient and modular single page web application. YES, to all of this.
