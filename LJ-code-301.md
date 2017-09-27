@@ -26,22 +26,26 @@ Today I learned what JSON and AJAX are and how to use them to load new data.
 
 Today I learned about NODE.JS. I learned how to initialize my project using NPM to create and populate a package.json file. "nodemon" is also cool.
 
-# Learning journal code - day 8
+# Learning journal code 301 - day 8
 
 Today I learned about SQL. Structured Query Language. It has one singular purpose to interact with a database.
 
-## Learning journal code - day 9
+## Learning journal code 301 - day 9
 
 Today we learned about SQL joins and Relations. We had about about 6 hours of lecture today. Yeah. If anything, backend doesn't know anything about the front-end unless communicated with AJAX.. I think I said that correctly, I'll ask Tomorrow.
 
-# Learning journal code - day 10
+# Learning journal code 301 - day 10
 
 Today I learned more about functional programming. .map, .flatten, yeah. Also, SQL joins makes more sense. Just a bit.
 
-## Learning journal code - day 11
+## Learning journal code 301 - day 11
 
 Today I learned about single page apps and client-side routing. We explored client-side route-based functionality. The purpose is to create a more efficient and modular single page web application. YES, to all of this.
 
-# Learning journal code - day 12
+# Learning journal code 301 - day 12
 
 Today I learned about RESTful Api. REpresentational State Transfer. It symbolizes a way a in building a back and front-end for your application to be scalable to have URLs. It's mostly about isolating responsibilities from the front-end and backend to not have them overlap in any way.
+
+## Learning journal code 301 - day 13
+
+Today I learned about Heroku deployment. Git and Heroku work hand in hand. Heroku is responsible for creating the app and github stores the source code for said app. 
