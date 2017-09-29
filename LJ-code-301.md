@@ -48,4 +48,8 @@ Today I learned about RESTful Api. REpresentational State Transfer. It symbolize
 
 ## Learning journal code 301 - day 13
 
-Today I learned about Heroku deployment. Git and Heroku work hand in hand. Heroku is responsible for creating the app and github stores the source code for said app. 
+Today I learned about Heroku deployment. Git and Heroku work hand in hand. Heroku is responsible for creating the app and github stores the source code for said app.
+
+# Learning journal code 301 - day 14
+
+ Today I learned you can get a codepoint from any index in a string using String.prototype.charCodeAt.
