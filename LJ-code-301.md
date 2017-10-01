@@ -53,3 +53,7 @@ Today I learned about Heroku deployment. Git and Heroku work hand in hand. Herok
 # Learning journal code 301 - day 14
 
  Today I learned you can get a codepoint from any index in a string using String.prototype.charCodeAt.
+
+## Learning journal code 301 - day 15
+
+ Today I learned that one major benefit of client-side routing in terms of user-experience is that it avoid server requests. Therefore, it's faster.
