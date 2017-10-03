@@ -57,3 +57,7 @@ Today I learned about Heroku deployment. Git and Heroku work hand in hand. Herok
 ## Learning journal code 301 - day 15
 
  Today I learned that one major benefit of client-side routing in terms of user-experience is that it avoid server requests. Therefore, it's faster.
+
+# Learning journal code 301 - day 16
+
+Today I learned that we could not capture a screenshot of point on a map using the google maps api, then exporting it to said captured image to a different page.
