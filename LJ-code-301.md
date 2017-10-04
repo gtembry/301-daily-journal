@@ -61,3 +61,7 @@ Today I learned about Heroku deployment. Git and Heroku work hand in hand. Herok
 # Learning journal code 301 - day 16
 
 Today I learned that we could not capture a screenshot of point on a map using the google maps api, then exporting it to said captured image to a different page.
+
+## Learning journal code 301 - day 17
+
+Today I learned that 401 entrance exam was ridiculous, I initially thought it was just me who struggled with the test. But, we reviewed the exam in class and clarified some questions. Also, our email function on our notePage just needs a bodyparser. Let's not forget that. 
