@@ -64,4 +64,8 @@ Today I learned that we could not capture a screenshot of point on a map using t
 
 ## Learning journal code 301 - day 17
 
-Today I learned that 401 entrance exam was ridiculous, I initially thought it was just me who struggled with the test. But, we reviewed the exam in class and clarified some questions. Also, our email function on our notePage just needs a bodyparser. Let's not forget that. 
+Today I learned that 401 entrance exam was ridiculous, I initially thought it was just me who struggled with the test. But, we reviewed the exam in class and clarified some questions. Also, our email function on our notePage just needs a bodyparser. Let's not forget that.
+
+# Learning journal code 301 - day 18
+
+Today I learned that css styling is not a strong suit in our group. Dropping pins while in nodemon does not display the car icons. However, in Heroku it works just fine.
