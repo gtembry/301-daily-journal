@@ -72,4 +72,8 @@ Today I learned that css styling is not a strong suit in our group. Dropping pin
 
 ## Learning journal code 301 - day 19
 
-Today I learned that the "when in doubt, float it out" technique is not a good principle to live by. But using position:relative help with moving divs around. CSS can be fun.
+Today I learned that the "when in doubt, float it out" technique is not a good principle to live by. But using position:relative help with moving divs around. CSS can be fun. Pixels are sometime valuable.
+
+# Learning journal code 301 - day 20
+
+Today I learned that we should not touch code within 1 hour of presentations. Always make sure heroku is up to date. Things look different on every machine due to resolution. So check your app on the projector.
