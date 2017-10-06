@@ -69,3 +69,7 @@ Today I learned that 401 entrance exam was ridiculous, I initially thought it wa
 # Learning journal code 301 - day 18
 
 Today I learned that css styling is not a strong suit in our group. Dropping pins while in nodemon does not display the car icons. However, in Heroku it works just fine.
+
+## Learning journal code 301 - day 19
+
+Today I learned that the "when in doubt, float it out" technique is not a good principle to live by. But using position:relative help with moving divs around. CSS can be fun.
